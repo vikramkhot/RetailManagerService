@@ -1,0 +1,2 @@
+# RetailManagerService
+RetailManagerApp
