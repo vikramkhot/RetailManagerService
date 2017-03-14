@@ -1,4 +1,4 @@
-package org.gradle;
+package com.example.model;
 
 import java.util.LinkedList;
 import java.util.List;
@@ -10,8 +10,8 @@ public class ShopListContainer {
 	/**
 	 * @param shopList
 	 */
-	public ShopListContainer(List<Shop> shopList) {
-		this.shopList = shopList;
+	public ShopListContainer() {
+		//this.shopList = shopList;
 	}
 
 	/**
